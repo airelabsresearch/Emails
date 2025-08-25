@@ -115,8 +115,19 @@
           With block editing, you can adjust individual components without duplicating entire spreadsheets or risking hidden errors.
         </mj-text>
         
-        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0">
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 24px">
           It gives you the flexibility to test ideas quickly while keeping your model intact.
+        </mj-text>
+        
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 24px">
+          This flexibility becomes crucial when you're racing against project deadlines. Get early access!
+        </mj-text>
+        
+        <mj-button href="https://s53npqbrhr0.typeform.com/to/F7IVEVxM" background-color="#0066FF" padding="0 0 16px">
+          Join Priority Waitlist
+        </mj-button>
+        <mj-text align="center" font-size="14px" color="#6B7280" padding="0 0 16px">
+          Limited early access for fall development projects
         </mj-text>
       </mj-column>
     </mj-section>
@@ -133,23 +144,9 @@
       </mj-column>
     </mj-section>
 
-    <!-- CTA Section -->
-    <mj-section background-color="#0066FF" padding="40px 24px">
-      <mj-column>
-        <mj-button href="https://s53npqbrhr0.typeform.com/to/F7IVEVxM" background-color="#ffffff" color="#0066FF" padding="0 0 16px">
-          Join Priority Waitlist
-        </mj-button>
-        <mj-text align="center" font-size="14px" color="#B3D4FF" padding="0">
-          Limited spots for fall development projects
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
     <!-- Newsletter Footer -->
     <mj-section background-color="#F8FAFC" padding="48px 24px">
       <mj-column>
-        <mj-divider border-color="#E5E7EB" border-width="1px" padding="0 0 32px" />
-        
         <mj-text align="center" font-size="20px" font-weight="600" color="#111827" padding="0 0 24px">
           About Aire Labs
         </mj-text>
