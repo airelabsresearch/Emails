@@ -1,0 +1,188 @@
+<mjml>
+  <mj-head>
+    <mj-title>Design partners get in first: secure early access to Aire</mj-title>
+    <mj-preview>Priority access to Aire Labs platform - limited spots for fall development projects.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" />
+      <mj-text font-size="16px" color="#374151" line-height="1.6" />
+      <mj-button background-color="#0066FF" color="#ffffff" border-radius="8px" font-weight="600" font-size="16px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .header-link { color: #6B7280; text-decoration: none; font-weight: 500; font-size: 14px; }
+      .header-link:hover { color: #374151; }
+      .beta-badge { background: #FEF3C7; color: #92400E; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; display: inline-block; }
+      .feature-card { background: #ffffff; border: 1px solid #E5E7EB; border-radius: 12px; padding: 24px; margin-bottom: 16px; }
+      .metric-number { font-size: 28px; font-weight: 700; color: #111827; line-height: 1; }
+      .metric-label { font-size: 13px; color: #6B7280; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; }
+      .signature-photo { width: 56px; height: 56px; border-radius: 50%; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9fafb">
+    
+    <!-- Header -->
+    <mj-section background-color="#ffffff" padding="24px 0 16px">
+      <mj-column>
+        <mj-image 
+          src="img/aire-labs-logo.png" 
+          alt="Aire Labs" 
+          width="100px" 
+          align="center"
+          padding="0 24px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Greeting -->
+    <mj-section background-color="#ffffff" padding="32px 24px 16px">
+      <mj-column>
+        <mj-text font-size="16px" color="#374151" padding="0">
+          Hey {firstName},
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section background-color="#ffffff" padding="16px 24px 32px">
+      <mj-column>
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 32px">
+          As we've progressed from research to design to building, one question has come up more and more: how do I start using Aire Labs? This update is our answer.
+        </mj-text>
+        
+        <mj-text font-size="28px" font-weight="700" color="#111827" line-height="1.2" padding="0 0 24px">
+          Priority Waitlist for Design Partners
+        </mj-text>
+        
+        <!-- Main Platform Screenshot -->
+        <mj-image 
+          src="img/platform-interface.png" 
+          alt="Aire Labs Platform Interface" 
+          width="600px" 
+          padding="0 0 24px"
+          border-radius="12px"
+        />
+        
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 24px">
+          We've opened onboarding for our first wave of users onto the Aire Labs platform.
+        </mj-text>
+        
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 24px">
+          If you want to develop your project using Aire Labs this fall, now's the time to sign up.
+        </mj-text>
+        
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 32px">
+          Spots are limited and we're prioritizing teams actively developing projects.
+        </mj-text>
+        
+        <mj-button href="https://s53npqbrhr0.typeform.com/to/F7IVEVxM" background-color="#0066FF" padding="0 0 16px">
+          Join Priority Waitlist
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Platform Updates Section -->
+    <mj-section background-color="#F8FAFC" padding="48px 24px 32px">
+      <mj-column>
+        <mj-text font-size="28px" font-weight="700" color="#111827" padding="0 0 16px">
+          Platform Updates 🚀
+        </mj-text>
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0">
+          Project models are powerful — but they can be fragile, slow, and hard to adapt. This month's updates are designed to make them easier to work with in the real world: faster to iterate, safer to change, and more responsive to your team's needs.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Block Editing Feature -->
+    <mj-section background-color="#F8FAFC" padding="0 24px 32px">
+      <mj-column>
+        <mj-text font-size="24px" font-weight="600" color="#111827" padding="0 0 20px">
+          Block Editing
+        </mj-text>
+        
+        <!-- Block Editing Screenshot -->
+        <mj-image 
+          src="img/block-editing.png" 
+          alt="Block Editing Interface" 
+          width="600px" 
+          padding="0 0 24px"
+          border-radius="12px"
+        />
+        
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 16px">
+          Models evolve as projects evolve.
+        </mj-text>
+        
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0 0 16px">
+          With block editing, you can adjust individual components without duplicating entire spreadsheets or risking hidden errors.
+        </mj-text>
+        
+        <mj-text font-size="16px" color="#374151" line-height="1.6" padding="0">
+          It gives you the flexibility to test ideas quickly while keeping your model intact.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Transition to CTA -->
+    <mj-section background-color="#F8FAFC" padding="32px 24px 48px">
+      <mj-column>
+        <mj-text font-size="18px" color="#374151" line-height="1.6" padding="0" align="center">
+          Ready to experience these improvements firsthand? Block editing and our other platform updates are available now for Design Partners.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA Section -->
+    <mj-section background-color="#0066FF" padding="40px 24px">
+      <mj-column>
+        <mj-button href="https://s53npqbrhr0.typeform.com/to/F7IVEVxM" background-color="#ffffff" color="#0066FF" padding="0 0 16px">
+          Join Priority Waitlist
+        </mj-button>
+        <mj-text align="center" font-size="14px" color="#B3D4FF" padding="0">
+          Limited spots for fall development projects
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Newsletter Footer -->
+    <mj-section background-color="#F8FAFC" padding="48px 24px">
+      <mj-column>
+        <mj-divider border-color="#E5E7EB" border-width="1px" padding="0 0 32px" />
+        
+        <mj-text align="center" font-size="20px" font-weight="600" color="#111827" padding="0 0 24px">
+          About Aire Labs
+        </mj-text>
+        
+        <mj-text align="center" font-size="15px" color="#6B7280" line-height="1.6" padding="0 0 24px">
+          Aire Labs accelerates clean energy project development with powerful tools that make techno-economic modeling faster, smarter, and more reliable. We help developers and financiers generate deeper insights while reducing manual errors and costs.
+        </mj-text>
+        
+        <mj-divider border-color="#E5E7EB" border-width="1px" padding="16px 0" />
+        
+        <mj-text align="center" font-size="14px" color="#9CA3AF" font-style="italic" padding="0">
+          This newsletter - exclusive to our Design Partners and friends of Aire Labs - is our way of keeping you up to date with what we're learning and building.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#ffffff" padding="48px 24px 32px">
+      <mj-column>
+        <mj-image 
+          src="img/aire-labs-logo.png" 
+          alt="Aire Labs" 
+          width="120px" 
+          align="center"
+          padding="0 0 24px"
+        />
+        <mj-text align="center" font-size="14px" color="#6B7280" padding="0 0 24px">
+          <a href="https://www.airelabs.com/" style="color: #6B7280; text-decoration: none;">About</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+          <a href="{unsubscribe_link}" style="color: #6B7280; text-decoration: none;">Unsubscribe</a>
+        </mj-text>
+        <mj-text align="center" font-size="12px" color="#9CA3AF" padding="0">
+          © 2024 Aire Labs, Inc. All rights reserved.<br />
+          Accelerating clean energy project development
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
