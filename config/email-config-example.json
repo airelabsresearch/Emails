@@ -1,0 +1,68 @@
+{
+  "email_title": "Design partners get in first: secure early access to Aire",
+  "email_preview": "Priority access to Aire Labs platform - limited spots for fall development projects.",
+  "hero_intro_text": "As we've progressed from research to design to building, one question has come up more and more: how do I start using Aire Labs? This update is our answer.",
+  "hero_title": "Priority Waitlist for Design Partners",
+  "show_hero_image": true,
+  "hero_image_src": "img/platform-interface.png",
+  "hero_image_alt": "Aire Labs Platform Interface",
+  "hero_text_blocks": [
+    {
+      "text": "We've opened onboarding for our first wave of users onto the Aire Labs platform."
+    },
+    {
+      "text": "If you want to develop your project using Aire Labs this fall, now's the time to sign up."
+    },
+    {
+      "text": "Spots are limited and we're prioritizing teams actively developing projects."
+    }
+  ],
+  "primary_cta_url": "https://s53npqbrhr0.typeform.com/to/F7IVEVxM",
+  "primary_cta_text": "Join Priority Waitlist",
+  "show_platform_updates": true,
+  "platform_updates_title": "Platform Updates 🚀",
+  "platform_updates_intro": "Project models are powerful — but they can be fragile, slow, and hard to adapt. This month's updates are designed to make them easier to work with in the real world: faster to iterate, safer to change, and more responsive to your team's needs.",
+  "features": [
+    {
+      "feature_title": "Block Editing",
+      "feature_image": {
+        "src": "img/block-editing.png",
+        "alt": "Block Editing Interface"
+      },
+      "feature_text_blocks": [
+        {
+          "text": "Models evolve as projects evolve."
+        },
+        {
+          "text": "With block editing, you can adjust individual components without duplicating entire spreadsheets or risking hidden errors."
+        },
+        {
+          "text": "It gives you the flexibility to test ideas quickly while keeping your model intact."
+        }
+      ],
+      "feature_cta": {
+        "url": "https://s53npqbrhr0.typeform.com/to/F7IVEVxM",
+        "text": "Join Priority Waitlist",
+        "cta_subtext": "Limited spots for fall development projects"
+      }
+    }
+  ],
+  "show_reading_section": false,
+  "reading_section_title": "This month from our Project Development Reading List",
+  "reading_items": [
+    {
+      "title": "How the U.S. lost its lead in electric vehicles and other clean energy inventions",
+      "url": "https://www.washingtonpost.com/climate-environment/2025/07/31/china-clean-energy-united-states-inventions/",
+      "description": "The U.S. pioneered EVs, solar, and batteries but lost ground as China backed deployment at scale—showing how FOAK technologies only become transformative when policy, capital, and manufacturing line up behind them."
+    }
+  ],
+  "show_secondary_cta": false,
+  "secondary_cta_url": "https://s53npqbrhr0.typeform.com/to/F7IVEVxM",
+  "secondary_cta_text": "Join Priority Waitlist",
+  "secondary_cta_subtext": "Limited spots for fall development projects",
+  "company_description": "Aire Labs accelerates clean energy project development with powerful tools that make techno-economic modeling faster, smarter, and more reliable. We help developers and financiers generate deeper insights while reducing manual errors and costs.",
+  "newsletter_description": "This newsletter - exclusive to our Design Partners and friends of Aire Labs - is our way of keeping you up to date with what we're learning and building.",
+  "company_website": "https://www.airelabs.com/",
+  "copyright_text": "© 2024 Aire Labs, Inc. All rights reserved.",
+  "company_tagline": "Accelerating clean energy project development"
+}

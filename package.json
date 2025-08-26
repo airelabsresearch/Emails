@@ -1,0 +1,19 @@
+{
+  "name": "aire-labs-email-automation",
+  "version": "1.0.0",
+  "description": "Automated email generation system for Aire Labs newsletters",
+  "scripts": {
+    "build": "python email_generator.py generate --config",
+    "compile": "mjml output/*.mjml -o output/html/",
+    "new-email": "python email_generator.py new-config --name",
+    "list": "python email_generator.py list-configs"
+  },
+  "dependencies": {
+    "mjml": "^4.14.1",
+    "mjml-cli": "^4.14.1"
+  },
+  "devDependencies": {},
+  "keywords": ["email", "mjml", "automation", "newsletter"],
+  "author": "Aire Labs",
+  "license": "MIT"
+}
