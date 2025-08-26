@@ -76,7 +76,7 @@
     </mj-section>
 
     <!-- Platform Updates Section -->
-    <mj-section background-color="#F8FAFC" padding="32px 24px 32px">
+    <mj-section background-color="#F8FAFC" padding="48px 24px 32px">
       <mj-column>
         <mj-text font-size="28px" font-weight="700" color="#111827" padding="0 0 16px">
           Platform Updates 🚀
@@ -165,7 +165,7 @@
         <mj-image 
           src="img/aire-labs-logo.png" 
           alt="Aire Labs" 
-          width="80px" 
+          width="120px" 
           align="center"
           padding="0 0 24px"
         />
